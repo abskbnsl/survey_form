@@ -1,0 +1,19 @@
+body{
+  margin:10% 30% 10% 30%;
+  background-color:blue;
+}
+form{
+  background-color:green;
+  padding:5%;
+  color:white;
+}
+#submit{
+  background-color:red;
+  text-align:center;
+  
+  padding:3% 40% 3% 40%;
+}
+textarea{
+  padding:3% 30% 3% 30%;
+  text-align:left;
+}
